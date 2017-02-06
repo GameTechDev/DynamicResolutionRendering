@@ -1,0 +1,60 @@
+﻿  SDKMeshExt.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50092): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50101): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50110): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50119): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50128): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50137): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50146): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50161): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50170): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50179): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50188): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50197): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50206): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50216): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50225): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50235): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50244): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50254): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50263): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50272): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50282): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50291): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50469): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50478): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50488): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50497): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50445): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50454): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+DXUT.lib(DXUT.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DynamicResolutionRendering.vcxproj -> C:\Users\duboismx\Documents\GitHub\DynamicResolutionRendering\Dynamic Resolution Rendering Update\\Win32\Debug\DynamicResolutionRendering.exe
+  DynamicResolutionRendering.vcxproj -> C:\Users\duboismx\Documents\GitHub\DynamicResolutionRendering\Dynamic Resolution Rendering Update\\Win32\Debug\DynamicResolutionRendering.pdb (Full PDB)
