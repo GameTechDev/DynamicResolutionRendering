@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{79372e04-d16a-4da7-abbb-d0a11fd35214}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXUTOpt">
+      <UniqueIdentifier>{fe90d78c-fd05-418b-8bdf-46ef207f86e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SampleComponents">
+      <UniqueIdentifier>{f6decde9-9aac-4271-b51e-cfe070396780}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DynamicResolution.cpp" />
+    <ClCompile Include="DynamicResolutionRendering.cpp" />
+    <ClCompile Include="GPUTimer.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="SceneDescription.cpp" />
+    <ClCompile Include="SDKMeshExt.cpp" />
+    <ClCompile Include="TexGenUtils.cpp" />
+    <ClCompile Include="Utility.cpp" />
+    <ClCompile Include="ZoomBox.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DynamicResolution.h" />
+    <ClInclude Include="DynamicResolutionRendering.h" />
+    <ClInclude Include="GPUTimer.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="SceneDescription.h" />
+    <ClInclude Include="SDKMeshExt.h" />
+    <ClInclude Include="TexGenUtils.h" />
+    <ClInclude Include="Utility.h" />
+    <ClInclude Include="ZoomBox.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DynamicResolutionRendering.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LICENSE.txt" />
+    <None Include="PostProcess.hlsl" />
+    <None Include="PostProcessDynamic.hlsl" />
+    <None Include="Project.ini" />
+    <None Include="scene_description.txt" />
+    <None Include="SceneShaders.hlsl" />
+    <None Include="ZoomBox.hlsl" />
+  </ItemGroup>
+</Project>
