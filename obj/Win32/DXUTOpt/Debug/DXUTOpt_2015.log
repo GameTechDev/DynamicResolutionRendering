@@ -1,0 +1,8 @@
+﻿Build started 4/21/2017 1:48:09 PM.
+     1>Project "C:\Users\Marissa\Documents\GitHub\DynamicResolutionRendering\DXUT\Optional\DXUTOpt_2015.vcxproj" on node 3 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.targets(44,5): error MSB8020: The builds tools for v140 (Platform Toolset = 'v140') cannot be found. To build using the v140 build tools, either click the Project menu or right-click the solution, and then select "Update VC++ Projects...". Install v140 to build using the v140 build tools.
+     1>Done Building Project "C:\Users\Marissa\Documents\GitHub\DynamicResolutionRendering\DXUT\Optional\DXUTOpt_2015.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.03

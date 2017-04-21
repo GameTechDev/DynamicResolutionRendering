@@ -385,8 +385,6 @@
     </None>
     <None Include="scene_description.txt">
     </None>
-    <None Include="LICENSE.txt">
-    </None>
     <None Include="SceneShaders.hlsl">
     </None>
     <None Include="PostProcess.hlsl">
